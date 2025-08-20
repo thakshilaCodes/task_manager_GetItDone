@@ -9,13 +9,13 @@ It helps you stay productive by organizing your tasks efficiently while keeping 
 
 <div align="center">
 
-<img src="screenshots/splash.jpg" width="220" alt="Splash Screen" style="margin:10px;"/>
-<img src="screenshots/welocme.jpg" width="220" alt="Home Screen" style="margin:10px;"/>
-<img src="screenshots/initial_home.jpg" width="220" alt="Add Task Screen" style="margin:10px;"/>
-<img src="screenshots/create.jpg" width="220" alt="Task Details Screen" style="margin:10px;"/>
-<img src="screenshots/home1.jpg" width="220" alt="Search Tasks" style="margin:10px;"/>
-<img src="screenshots/home2.jpg" width="220" alt="Sort by Date" style="margin:10px;"/>
-<img src="screenshots/update.jpg" width="220" alt="Sort by Date" style="margin:10px;"/>
+<img src="screenshots/splash.jpg" width="220" alt="Splash Screen" style="margin:20px;"/>
+<img src="screenshots/welocme.jpg" width="220" alt="Welcome Screen" style="margin:20px;"/>
+<img src="screenshots/initial_home.jpg" width="220" alt="Initial Home Page" style="margin:20px;"/>
+<img src="screenshots/create.jpg" width="220" alt="Add Task Screen" style="margin:20px;"/>
+<img src="screenshots/home1.jpg" width="220" alt="Home" style="margin:20px;"/>
+<img src="screenshots/home2.jpg" width="220" alt="Home" style="margin:20px;"/>
+<img src="screenshots/update.jpg" width="220" alt="Update Task Screen" style="margin:20px;"/>
 
 </div>
 
